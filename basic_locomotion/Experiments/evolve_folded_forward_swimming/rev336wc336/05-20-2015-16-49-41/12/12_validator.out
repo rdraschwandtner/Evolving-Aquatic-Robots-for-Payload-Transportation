@@ -1,0 +1,187 @@
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=0, num_joints=16, output_path='/scratch/rened/experiments/evolve_folded_forward_swimming/rev336wc336/05-20-2015-16-49-41/', pop_size=100, run_num=12, validator=True)
+amps:0.711317434697 frqs:2.34968177977 phss:5.31986082796
+(501, 51)
+(501, 68)
+[20.80643476482912, -0.0023626436591688282, 0.14650224834076211]
+fitness=20.8069506683
+50
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=50, num_joints=16, output_path='/scratch/rened/experiments/evolve_folded_forward_swimming/rev336wc336/05-20-2015-16-49-41/', pop_size=100, run_num=12, validator=True)
+amps:0.734316498999 frqs:1.7143106355 phss:5.36227036642
+(501, 51)
+(501, 68)
+[24.06683152541021, 0.0010749125889353284, 0.33240946435961]
+fitness=24.0691270486
+100
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=100, num_joints=16, output_path='/scratch/rened/experiments/evolve_folded_forward_swimming/rev336wc336/05-20-2015-16-49-41/', pop_size=100, run_num=12, validator=True)
+amps:0.734316498999 frqs:1.7143106355 phss:5.36227036642
+(501, 51)
+(501, 68)
+[24.066831525411573, 0.0010749125889166766, 0.3324094643903357]
+fitness=24.0691270486
+150
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=150, num_joints=16, output_path='/scratch/rened/experiments/evolve_folded_forward_swimming/rev336wc336/05-20-2015-16-49-41/', pop_size=100, run_num=12, validator=True)
+amps:0.734316498999 frqs:1.7143106355 phss:5.36227036642
+(501, 51)
+(501, 68)
+[24.066831525411573, 0.0010749125889166766, 0.3324094643903357]
+fitness=24.0691270486
+200
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=200, num_joints=16, output_path='/scratch/rened/experiments/evolve_folded_forward_swimming/rev336wc336/05-20-2015-16-49-41/', pop_size=100, run_num=12, validator=True)
+amps:0.734316498999 frqs:1.7143106355 phss:5.36227036642
+(501, 51)
+(501, 68)
+[24.066831525411573, 0.0010749125889166766, 0.3324094643903357]
+fitness=24.0691270486
+250
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=250, num_joints=16, output_path='/scratch/rened/experiments/evolve_folded_forward_swimming/rev336wc336/05-20-2015-16-49-41/', pop_size=100, run_num=12, validator=True)
+amps:0.734316498999 frqs:1.7143106355 phss:5.36227036642
+(501, 51)
+(501, 68)
+[24.066831525411573, 0.0010749125889166766, 0.3324094643903357]
+fitness=24.0691270486
+300
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=300, num_joints=16, output_path='/scratch/rened/experiments/evolve_folded_forward_swimming/rev336wc336/05-20-2015-16-49-41/', pop_size=100, run_num=12, validator=True)
+amps:0.734316498999 frqs:1.7143106355 phss:5.36227036642
+(501, 51)
+(501, 68)
+[24.066831525411573, 0.0010749125889166766, 0.3324094643903357]
+fitness=24.0691270486
+350
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=350, num_joints=16, output_path='/scratch/rened/experiments/evolve_folded_forward_swimming/rev336wc336/05-20-2015-16-49-41/', pop_size=100, run_num=12, validator=True)
+amps:0.734316498999 frqs:1.7143106355 phss:5.36227036642
+(501, 51)
+(501, 68)
+[24.066831525411573, 0.0010749125889166766, 0.3324094643903357]
+fitness=24.0691270486
+400
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=400, num_joints=16, output_path='/scratch/rened/experiments/evolve_folded_forward_swimming/rev336wc336/05-20-2015-16-49-41/', pop_size=100, run_num=12, validator=True)
+amps:0.734316498999 frqs:1.7143106355 phss:5.36227036642
+(501, 51)
+(501, 68)
+[24.066831525411573, 0.0010749125889166766, 0.3324094643903357]
+fitness=24.0691270486
+450
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=450, num_joints=16, output_path='/scratch/rened/experiments/evolve_folded_forward_swimming/rev336wc336/05-20-2015-16-49-41/', pop_size=100, run_num=12, validator=True)
+amps:0.734316498999 frqs:1.7143106355 phss:5.36227036642
+(501, 51)
+(501, 68)
+[24.066831525411573, 0.0010749125889166766, 0.3324094643903357]
+fitness=24.0691270486
+500
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=500, num_joints=16, output_path='/scratch/rened/experiments/evolve_folded_forward_swimming/rev336wc336/05-20-2015-16-49-41/', pop_size=100, run_num=12, validator=True)
+amps:0.634612995717 frqs:1.7143106355 phss:5.36227036642
+(501, 51)
+(501, 68)
+[23.65050045365053, -0.0001509642784183196, -0.06715192918490982]
+fitness=23.6505957877
+550
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=550, num_joints=16, output_path='/scratch/rened/experiments/evolve_folded_forward_swimming/rev336wc336/05-20-2015-16-49-41/', pop_size=100, run_num=12, validator=True)
+amps:0.734316498999 frqs:1.7143106355 phss:5.36227036642
+(501, 51)
+(501, 68)
+[24.066831525411573, 0.0010749125889166766, 0.3324094643903357]
+fitness=24.0691270486
+600
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=600, num_joints=16, output_path='/scratch/rened/experiments/evolve_folded_forward_swimming/rev336wc336/05-20-2015-16-49-41/', pop_size=100, run_num=12, validator=True)
+amps:0.734316498999 frqs:1.7143106355 phss:5.36227036642
+(501, 51)
+(501, 68)
+[24.066831525411573, 0.0010749125889166766, 0.3324094643903357]
+fitness=24.0691270486
+650
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=650, num_joints=16, output_path='/scratch/rened/experiments/evolve_folded_forward_swimming/rev336wc336/05-20-2015-16-49-41/', pop_size=100, run_num=12, validator=True)
+amps:0.734316498999 frqs:1.7143106355 phss:5.36227036642
+(501, 51)
+(501, 68)
+[24.066831525411573, 0.0010749125889166766, 0.3324094643903357]
+fitness=24.0691270486
+700
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=700, num_joints=16, output_path='/scratch/rened/experiments/evolve_folded_forward_swimming/rev336wc336/05-20-2015-16-49-41/', pop_size=100, run_num=12, validator=True)
+amps:0.700772705241 frqs:1.76073311913 phss:5.36227036642
+(501, 51)
+(501, 68)
+[23.769172147662772, 0.0010061705147499378, -0.6638906190151573]
+fitness=23.7784418403
+750
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=750, num_joints=16, output_path='/scratch/rened/experiments/evolve_folded_forward_swimming/rev336wc336/05-20-2015-16-49-41/', pop_size=100, run_num=12, validator=True)
+amps:0.733059508473 frqs:1.69143085605 phss:5.33714765443
+(501, 51)
+(501, 68)
+[23.635889527827864, -0.0009282348978724153, 1.0261730103675133]
+fitness=23.6581551622
+800
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=800, num_joints=16, output_path='/scratch/rened/experiments/evolve_folded_forward_swimming/rev336wc336/05-20-2015-16-49-41/', pop_size=100, run_num=12, validator=True)
+amps:0.734316498999 frqs:1.7143106355 phss:5.36227036642
+(501, 51)
+(501, 68)
+[24.066831525411573, 0.0010749125889166766, 0.3324094643903357]
+fitness=24.0691270486
+850
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=850, num_joints=16, output_path='/scratch/rened/experiments/evolve_folded_forward_swimming/rev336wc336/05-20-2015-16-49-41/', pop_size=100, run_num=12, validator=True)
+amps:0.734316498999 frqs:1.7143106355 phss:5.36227036642
+(501, 51)
+(501, 68)
+[24.066831525411573, 0.0010749125889166766, 0.3324094643903357]
+fitness=24.0691270486
+900
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=900, num_joints=16, output_path='/scratch/rened/experiments/evolve_folded_forward_swimming/rev336wc336/05-20-2015-16-49-41/', pop_size=100, run_num=12, validator=True)
+amps:0.734316498999 frqs:1.7143106355 phss:5.36227036642
+(501, 51)
+(501, 68)
+[24.066831525411573, 0.0010749125889166766, 0.3324094643903357]
+fitness=24.0691270486
+950
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=950, num_joints=16, output_path='/scratch/rened/experiments/evolve_folded_forward_swimming/rev336wc336/05-20-2015-16-49-41/', pop_size=100, run_num=12, validator=True)
+amps:0.734316498999 frqs:1.7143106355 phss:5.36227036642
+(501, 51)
+(501, 68)
+[24.066831525411573, 0.0010749125889166766, 0.3324094643903357]
+fitness=24.0691270486
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=999, num_joints=16, output_path='/scratch/rened/experiments/evolve_folded_forward_swimming/rev336wc336/05-20-2015-16-49-41/', pop_size=100, run_num=12, validator=True)
+amps:0.734316498999 frqs:1.7143106355 phss:5.36227036642
+(501, 51)
+(501, 68)
+[24.066831525411573, 0.0010749125889166766, 0.3324094643903357]
+fitness=24.0691270486

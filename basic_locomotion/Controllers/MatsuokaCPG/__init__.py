@@ -1,0 +1,1 @@
+from MultiNEAT import MultiNEAT_logging

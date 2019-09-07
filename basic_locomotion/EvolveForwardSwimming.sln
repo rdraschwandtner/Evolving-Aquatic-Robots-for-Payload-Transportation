@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "EvolveForwardSwimming", "EvolveForwardSwimming.pyproj", "{AA1B64E4-FE04-402F-AB0A-C6B2ABD7D51B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA1B64E4-FE04-402F-AB0A-C6B2ABD7D51B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1B64E4-FE04-402F-AB0A-C6B2ABD7D51B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
