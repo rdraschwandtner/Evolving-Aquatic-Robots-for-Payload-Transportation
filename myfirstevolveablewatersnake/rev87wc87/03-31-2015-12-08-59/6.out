@@ -1,0 +1,9 @@
+./
+## used processes:  32
+gen:  0  bestfitness:  18.5732395669  @idx:  74
+gen:  1  bestfitness:  21.8573507365  @idx:  95
+gen:  2  bestfitness:  21.8573507365  @idx:  21
+gen:  3  bestfitness:  22.3900675446  @idx:  26
+gen:  4  bestfitness:  22.9760064333  @idx:  69
+gen:  5  bestfitness:  22.9760064333  @idx:  16
+gen:  6  bestfitness:  24.0398211155  @idx:  57

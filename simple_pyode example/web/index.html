@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+
+	<link rel="stylesheet" href="style/style.css">
+
+	<script src="js/lib/three.min.js"></script>
+	<script src="js/lib/OrbitControls.js"></script>
+
+</head>
+<body>
+
+
+<div id="container">
+	<button id="cancel_button" onclick="_JSON.abortRead();">Cancel</button>
+	<div id="progress_bar">
+		<div class="percent">0%</div>
+	</div>
+	<div>
+		<p id="output_message">Drag a JSON file onto the canvas (or click on an example below).</p>
+	</div>
+	<div id="playback_controls">
+		<span class="control_slider">
+			<div class="left_label"></div>
+			<div class="right_label"></div>
+		    <div id="speed_label" class="label_box"></div>
+		    <input id="speed_slider" class="slider" type="range">
+		    <div class="label">Playback Speed</div>
+		</span>
+		<span class="control_button">
+			<button id="pp_toggle" class="play"></button>
+			<div class="label">Play/Pause</div>
+		</span>
+		<span class="control_slider">
+			<div class="left_label"></div>
+			<div class="right_label"></div>
+		    <div id="time_label" class="label_box"></div>
+		    <input id="time_slider" class="slider" type="range">
+		    <div class="label">Current Time</div>
+		</span>
+	</div>
+	<div id="canvas_container">
+		<canvas id="canvas_threejs"></canvas>
+	</div>
+	<div id="animation_examples">
+		<ul>
+			<li><img id="example1" src="images/cuboid_example.png" alt="cuboid-example"></li>
+			<li><img id="example2" src="images/fish_example.png" alt="fish-example1"></li>
+			<li><img id="example3" src="images/fish_example.png" alt="fish-example2"></li>
+		</ul>
+	</div>
+</div>
+
+<script type="text/javascript" src="js/handle_file2.js"></script>
+
+</body>
+</html>
+
+
+
+

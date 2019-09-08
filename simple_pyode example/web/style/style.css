@@ -1,0 +1,236 @@
+
+/*#canvas_threejs {*/
+#canvas_container {
+	width: 100%;
+	height: 400px;
+	margin: 1rem 0 1rem 0;
+	border: 1px dashed #CCC;
+}
+#container {
+	padding: 10px;
+	border: 2px solid #BBB;
+	border-radius: 3px;
+	margin: auto;
+	width: 60%;
+	display: block;
+	color: #777;
+	text-align:center;
+}
+#container:hover {
+}
+
+#progress_bar {
+	margin: 5px;
+	border: 1px solid #000;
+	font-size: 14px;
+	opacity: 0;
+	-moz-transition: opacity 1s linear;
+	-o-transition: opacity 1s linear;
+	-webkit-transition: opacity 1s linear;
+	overflow: hidden;
+	}
+#progress_bar.loading {
+	opacity: 1.0;
+}
+#progress_bar .percent {
+	background-color: #99ccff;
+	height: auto;
+	width: 0;
+}
+
+#cancel_button {
+	float: right;
+	margin-left: 10px;
+	padding:5px;
+	font-size: 14px;
+	background-color: #dcdcdc;
+	border: 1px solid #666;
+	color:#000;
+	text-decoration:none;
+}
+#cancel_button:hover, #cancel_button:focus, 
+.play:hover, .play:focus,
+.pause:hover, .pause:focus {
+	background-color: #EEE;
+}
+#cancel_button:active, .play:active, .pause:active {
+	background-color: #BBB;
+}
+
+
+input[type='range'] {
+	padding: 0;
+	margin: 0;
+	background: transparent;
+	border: none;
+	box-sizing: border-box;
+	background-clip: padding-box;
+	vertical-align: top;
+	outline: none;
+	-webkit-appearance: none;
+
+	/* Match -moz-range-track below*/
+	border-radius: 0.4rem;
+	border: 1px solid #a5a8a8;
+	background: #dcdcdc;
+	height: 0.6rem;
+}
+
+input[type='range']::-moz-range-track {
+	border-radius: 0.4rem;
+	border: 1px solid #a5a8a8;
+	background: #dcdcdc;
+	height: 0.6rem;
+}
+
+input[type='range']::-webkit-slider-thumb {
+    -webkit-appearance: none;
+
+	/* Match -moz-range-thumb below*/
+    cursor: pointer;
+    height: 1.4rem;
+    width: 0.6rem;
+    border: 1px solid #666;
+    border-radius: 0.4rem;
+    background: black;
+}
+input[type='range']::-moz-range-thumb {
+    cursor: pointer;
+    height: 1.4rem;
+    width: 0.6rem;
+    border: 1px solid #666;
+    border-radius: 0.4rem;
+    background: black;
+}
+
+input[type=range]:active::-webkit-slider-thumb {
+  background: white;
+}
+
+input[type=range]:active::-moz-range-thumb {
+  background: white;
+}
+
+
+
+#playback_controls {
+    margin: auto;
+    width: 85%;
+    height: 5rem;
+    text-align: center;
+	font-family: sans-serif;
+	font-size: 1rem;
+	border: 1px solid #CCC;
+    color: #777;
+    /*overflow: hidden;*/
+}
+.control_button, .control_slider {
+	height: 100%;
+	position: relative;
+	display: inline-block;
+	width: 30%;
+}
+.control_button { 
+	width: 15%;
+	padding: 0 2rem;
+}
+
+
+.label_box {
+	position: absolute;
+	margin: 0 auto;
+    width: 2.5rem;
+    border: 1px solid #CCC;
+	bottom: 3.4rem;
+	left: 0;
+	right: 0;
+}
+.left_label { 
+	left: 0;
+}
+.right_label { 
+	right: 0;
+}
+.left_label, .right_label { 
+	font-size: 0.8rem; 
+	color: #555;
+	position: absolute;
+	bottom: 2.8rem;
+}
+.label {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+}
+
+
+
+.slider, #pp_toggle { 
+    position: absolute;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+}
+.slider { 
+	width: 100%;
+	/*width: 5rem;*/
+	bottom: 1.7rem;
+}
+#pp_toggle { 
+    bottom: 1.6rem;
+}
+
+
+
+.play, .pause {
+   width: 3rem;
+   height: 3rem;
+   background: #dcdcdc;
+   position: relative;
+   display: block;
+   border: 1px solid #666;
+}
+
+
+.play:before {
+    width: 0;        
+    height: 0;
+    border-left: 2.0rem solid black;
+    border-right: 2.0rem solid transparent;
+    border-top: 1.1rem solid transparent;
+    border-bottom: 1.1rem solid transparent; 
+    position: absolute;
+    content: "";
+    top: 0.5rem;
+    left: 0.6rem;
+}
+
+.pause:before, .pause:after {
+    width: 0.7rem;
+    height: 2rem;
+    background: black;
+    position: absolute;
+    content: "";
+    top: 0.5rem;
+}
+.pause:before { left: 0.6rem; }
+.pause:after { right: 0.65rem; }
+
+
+#animation_examples ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+#animation_examples ul li {
+	display: inline;
+	padding: 0 1rem;
+}
+#animation_examples ul li img {
+	width: 20%;
+	box-shadow: 8px 3px 3px;
+}
+
+
+
