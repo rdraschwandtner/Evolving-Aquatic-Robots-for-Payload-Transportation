@@ -1,0 +1,626 @@
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=0, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=1)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+6
+50
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=50, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=1)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+4
+100
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=100, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=1)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+7
+150
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=150, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=1)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+4
+200
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=200, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=1)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+21
+250
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=250, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=1)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+23
+300
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=300, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=1)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+23
+350
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=350, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=1)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+21
+400
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=400, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=1)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+23
+450
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=450, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=1)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+19
+500
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=500, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=1)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+5
+550
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=550, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=1)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+21
+600
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=600, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=1)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+20
+650
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=650, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=1)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+5
+700
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=700, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=1)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+6
+750
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=750, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=1)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+24
+800
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=800, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=1)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+5
+850
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=850, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=1)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+16
+900
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=900, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=1)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+17
+950
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=950, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=1)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+9
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=999, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=1)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+15
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=0, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=4)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+3
+50
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=50, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=4)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+16
+100
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=100, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=4)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+19
+150
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=150, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=4)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+18
+200
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=200, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=4)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+5
+250
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=250, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=4)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+8
+300
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=300, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=4)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+7
+350
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=350, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=4)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+6
+400
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=400, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=4)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+6
+450
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=450, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=4)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+6
+500
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=500, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=4)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+22
+550
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=550, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=4)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+5
+600
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=600, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=4)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+4
+650
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=650, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=4)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+18
+700
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=700, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=4)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+16
+750
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=750, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=4)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+3
+800
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=800, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=4)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+17
+850
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=850, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=4)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+5
+900
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=900, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=4)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+15
+950
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=950, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=4)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+24
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=30.0, gens=999, log_frames=True, output_path='/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/', pop_size=100, run_num=13, validator=True, validatorquadrant=4)
+/scratch/rened/experiments/Spheretouch/rev444wc444/07-24-2015-10-15-27/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(1501, 345)
+(1501, 460)
+8

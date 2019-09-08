@@ -1,0 +1,9 @@
+--- Setup ---
+virtualenv -p /usr/bin/python pyode-env
+pip install pyode
+pip install pyopengl
+pip install pil
+
+--- Notes ---
+- does not work with ode 0.10 (not a problem)
+- had to rename ODE_System to ODESystem in snake.py (could be other places as well)

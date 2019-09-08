@@ -1,0 +1,1 @@
+video stimmt nicht! siehe plot im 2ten quadrant!

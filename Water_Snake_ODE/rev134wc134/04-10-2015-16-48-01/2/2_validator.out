@@ -1,0 +1,313 @@
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=0, log_frames=True, output_path='/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/', pop_size=100, run_num=2, validator=True)
+/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(501, 24)
+(501, 32)
+1.09639323842
+50
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=50, log_frames=True, output_path='/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/', pop_size=100, run_num=2, validator=True)
+/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(501, 24)
+(501, 32)
+7.07079320516
+100
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=100, log_frames=True, output_path='/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/', pop_size=100, run_num=2, validator=True)
+/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(501, 24)
+(501, 32)
+7.89614640413
+150
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=150, log_frames=True, output_path='/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/', pop_size=100, run_num=2, validator=True)
+/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(501, 24)
+(501, 32)
+8.942624949
+200
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=200, log_frames=True, output_path='/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/', pop_size=100, run_num=2, validator=True)
+/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(501, 24)
+(501, 32)
+9.707128184
+250
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=250, log_frames=True, output_path='/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/', pop_size=100, run_num=2, validator=True)
+/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(501, 24)
+(501, 32)
+9.79932109956
+300
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=300, log_frames=True, output_path='/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/', pop_size=100, run_num=2, validator=True)
+/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(501, 24)
+(501, 32)
+9.86554675294
+350
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=350, log_frames=True, output_path='/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/', pop_size=100, run_num=2, validator=True)
+/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(501, 24)
+(501, 32)
+9.90162248257
+400
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=400, log_frames=True, output_path='/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/', pop_size=100, run_num=2, validator=True)
+/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(501, 24)
+(501, 32)
+9.90289013625
+450
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=450, log_frames=True, output_path='/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/', pop_size=100, run_num=2, validator=True)
+/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(501, 24)
+(501, 32)
+9.92407606056
+500
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=500, log_frames=True, output_path='/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/', pop_size=100, run_num=2, validator=True)
+/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(501, 24)
+(501, 32)
+9.71248680858
+550
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=550, log_frames=True, output_path='/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/', pop_size=100, run_num=2, validator=True)
+/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(501, 24)
+(501, 32)
+9.5923226971
+600
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=600, log_frames=True, output_path='/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/', pop_size=100, run_num=2, validator=True)
+/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(501, 24)
+(501, 32)
+9.70536807166
+650
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=650, log_frames=True, output_path='/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/', pop_size=100, run_num=2, validator=True)
+/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(501, 24)
+(501, 32)
+9.88222744652
+700
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=700, log_frames=True, output_path='/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/', pop_size=100, run_num=2, validator=True)
+/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(501, 24)
+(501, 32)
+9.88493203893
+750
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=750, log_frames=True, output_path='/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/', pop_size=100, run_num=2, validator=True)
+/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(501, 24)
+(501, 32)
+10.0335306321
+800
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=800, log_frames=True, output_path='/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/', pop_size=100, run_num=2, validator=True)
+/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(501, 24)
+(501, 32)
+9.90841867903
+850
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=850, log_frames=True, output_path='/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/', pop_size=100, run_num=2, validator=True)
+/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(501, 24)
+(501, 32)
+10.0365465919
+900
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=900, log_frames=True, output_path='/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/', pop_size=100, run_num=2, validator=True)
+/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(501, 24)
+(501, 32)
+10.1209116757
+950
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=950, log_frames=True, output_path='/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/', pop_size=100, run_num=2, validator=True)
+/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(501, 24)
+(501, 32)
+10.1509111367
+Tip: install the OpenCV computer vision library (2.0+) with Python bindings
+     to get convenient neural network visualization to NumPy arrays
+Namespace(eval_time=10.0, gens=999, log_frames=True, output_path='/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/', pop_size=100, run_num=2, validator=True)
+/scratch/rened/experiments/MyANN_Worm/rev134wc134/04-10-2015-16-48-01/
+(2, 1)
+(3, 2)
+(4, 3)
+(5, 4)
+(6, 5)
+(7, 6)
+(8, 7)
+(501, 24)
+(501, 32)
+10.1655806017
