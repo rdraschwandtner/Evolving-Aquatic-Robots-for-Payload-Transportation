@@ -1,5 +1,8 @@
 # Evolving Aquatic Robots for Payload Transportation
  Using Genetic Algorithms to optimize a robot's configuration for a transportation task.
+ The following video shows the results of a self evolved swimming robot:
+ 
+ [![Link to YouTube](https://img.youtube.com/vi/xWSVBTm4m3c/hqdefault.jpg)](https://www.youtube.com/watch?v=xWSVBTm4m3c)
 
 ## Abstract
 Payload transportation in an aquatic environment is usually performed by underwater robots equipped with controller boards. The focus of this thesis
